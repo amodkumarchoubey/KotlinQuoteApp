@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:padding="@dimen/_15sdp"
+    android:background="@color/black_shade_2">
+
+    <!--text view for displaying heading-->
+    <TextView
+        android:id="@+id/idTVHead"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:padding="@dimen/_6sdp"
+        android:text="Update Quote"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16sdp"
+        android:textStyle="bold" />
+
+    <!--edit text for displaying edit text-->
+    <EditText
+        android:id="@+id/idEdtUpdateNote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/idTVHead"
+        android:layout_margin="@dimen/_6sdp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:hint="Update your Note"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+
+    <!--button for updating our note-->
+    <Button
+        android:id="@+id/idBtnUpdateNote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/idEdtUpdateNote"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:background="@drawable/button_state_list_animator"
+        android:text="Update Quote"
+        android:textAllCaps="false"
+        android:textColor="@color/button_text_color" />
+
+</RelativeLayout>

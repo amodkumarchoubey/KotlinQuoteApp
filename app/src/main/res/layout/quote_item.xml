@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="@color/black_shade_2"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="3dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_state_list_animator"
+        android:textColor="@color/button_text_color"
+        android:layout_margin="@dimen/_6sdp">
+
+        <!--text view for displaying our note text-->
+        <TextView
+            android:id="@+id/Qoutes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_6sdp"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:layout_marginEnd="@dimen/_6sdp"
+            android:layout_marginBottom="@dimen/_6sdp"
+            android:layout_toLeftOf="@id/idIVDelete"
+            android:padding="2dp"
+            android:text="Note"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:singleLine="true"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:scrollHorizontally="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_15sdp" />
+
+        <!--text view for displaying our last updated text-->
+        <TextView
+            android:id="@+id/txt_auther"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/Qoutes"
+            android:layout_margin="3dp"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:singleLine="true"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:scrollHorizontally="true"
+            android:layout_toLeftOf="@id/idIVDelete"
+            android:padding="4dp"
+            android:text="Auther"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_16sdp" />
+
+        <!--imageview for displaying delete icon-->
+        <ImageView
+            android:id="@+id/idIVDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="3dp"
+            android:padding="3dp"
+            android:src="@drawable/ic_delete"
+            app:tint="@color/white" />
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

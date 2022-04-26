@@ -1,0 +1,204 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "An investment in knowledge pays the best interest.",
+      "author": "Benjamin Franklin",
+      "wallpaper": "01.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 2,
+      "quote": "Change is the end result of all true learning.",
+      "author": "Leo Buscaglia",
+      "wallpaper": "02.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 3,
+      "quote": "Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+      "author": "Malcolm X",
+      "wallpaper": "03.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 4,
+      "quote": "The roots of education are bitter, but the fruit is sweet.",
+      "author": "Aristotle",
+      "wallpaper": "04.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 5,
+      "quote": "Education is what remains after one has forgotten what one has learned in school.",
+      "author": "Albert Einstein",
+      "wallpaper": "05.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 6,
+      "quote": "The more that you read, the more things you will know, the more that you learn, the more places you'll go.",
+      "author": "Dr. Seuss",
+      "wallpaper": "06.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 7,
+      "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+      "author": "Mahatma Gandhi",
+      "wallpaper": "07.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 8,
+      "quote": "Education without values, as useful as it is, seems rather to make man a more clever devil.",
+      "author": "C.S. Lewis",
+      "wallpaper": "08.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 9,
+      "quote": "The learning process continues until the day you die.",
+      "author": "Kirk Douglas",
+      "wallpaper": "09.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 10,
+      "quote": "Education is not the filling of a pail, but the lighting of a fire.",
+      "author": "W.B. Yeats",
+      "wallpaper": "10.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 11,
+      "quote": "Develop a passion for learning. If you do, you will never cease to grow.",
+      "author": "Anthony J. D'Angelo",
+      "wallpaper": "01.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 12,
+      "quote": "Education is not preparation for life; education is life itself.",
+      "author": "John Dewey",
+      "wallpaper": "02.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 13,
+      "quote": "Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family.",
+      "author": "Kofi Annan",
+      "wallpaper": "03.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 14,
+      "quote": "A person who won't read has no advantage over one who can't read.",
+      "author": "Mark Twain",
+      "wallpaper": "04.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 15,
+      "quote": "Education is a better safeguard of liberty than a standing army.",
+      "author": "Edward Everett",
+      "wallpaper": "05.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 16,
+      "quote": "They know enough who know how to learn.",
+      "author": "Henry Adams",
+      "wallpaper": "06.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 17,
+      "quote": "Upon the subject of education ... I can only say that I view it as the most important subject which we as a people may be engaged in.",
+      "author": "Abraham Lincoln",
+      "wallpaper": "07.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 18,
+      "quote": "Learning is like rowing upstream: not to advance is to drop back.",
+      "author": "Chinese proverb",
+      "wallpaper": "08.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 19,
+      "quote": "Nine-tenths of education is encouragement.",
+      "author": "Anatole France",
+      "wallpaper": "09.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 20,
+      "quote": "Man can learn nothing except by going from the known to the unknown.",
+      "author": "Claude Bernard",
+      "wallpaper": "10.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 21,
+      "quote": "Education is the ability to listen to almost anything without losing your temper or your self-confidence.",
+      "author": "Robert Frost",
+      "wallpaper": "01.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 22,
+      "quote": "Learning is not attained by chance, it must be sought for with ardor and attended to with diligence.",
+      "author": "Abigail Adams",
+      "wallpaper": "02.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 23,
+      "quote": "Educating the mind without educating the heart is no education at all.",
+      "author": "Aristotle",
+      "wallpaper": "03.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 24,
+      "quote": "It is as impossible to withhold education from the receptive mind as it is impossible to force it upon the unreasoning.",
+      "author": "Agnes Repplierg",
+      "wallpaper": "04.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    },
+    {
+      "id": 25,
+      "quote": "They cannot stop me. I will get my education, if it is in the home, school, or anyplace.",
+      "author": "Malala Yousafzai",
+      "wallpaper": "05.jpg",
+      "author_id": 0,
+      "category": "Education Quotes"
+    }
+  ]
+}
